@@ -30,3 +30,9 @@ $(document).ajaxError(function(event, jqXHR, err){
     alert('Problem obtaining data: ' + jqXHR.statusText);
 });
 
+$(function() {
+	function getQuakes() {
+		
+	}
+});
+
